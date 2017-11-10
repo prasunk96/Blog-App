@@ -1,0 +1,7 @@
+this project does not includes node_modules fiels which is required for the this app to run. if you are downloading this project make sure
+you add node_module package throught NPM.
+you can type in the NPM command line
+->npm init express --save
+just use this line and keep changing the required package name in the command line for example: in place of express you can write mongoose 
+that is npm init mongoose --save
+thanks.
